@@ -31,6 +31,11 @@ apt install docker-ce
 ```bash
 docker --version
 ```
+- add insecure-registry for your ip server 
+```bash
+vim /usr/lib/systemd/system/docker.service
+```
+![Alt text](image-7.png)
 
 ## Step 3: Install Docker-compose on System
 - Download & install docker compose
