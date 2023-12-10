@@ -1,5 +1,5 @@
 # How to install-harbor
-Harbor for image registry
+Harbor for docker image registry
 
 ## Steps to Setup Harbor Image Registry on Ubuntu 20.04 LTS
 ### Step 1: Update the System.
