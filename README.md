@@ -31,8 +31,6 @@ apt install docker-ce
 ```bash
 docker --version
 ```
-![Alt text](image-7.png)
-
 ```bash
 systemctl daemon-reload
 systemctl restart docker
