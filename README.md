@@ -31,10 +31,6 @@ apt install docker-ce
 ```bash
 docker --version
 ```
-- add insecure-registry with your ip server on your file docker configuration service for security
-```bash
-vim /usr/lib/systemd/system/docker.service
-```
 ![Alt text](image-7.png)
 
 ```bash
