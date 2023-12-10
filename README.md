@@ -31,10 +31,6 @@ apt install docker-ce
 ```bash
 docker --version
 ```
-```bash
-systemctl daemon-reload
-systemctl restart docker
-```
 
 ## Step 3: Install Docker-compose on System
 - Download & install docker compose
